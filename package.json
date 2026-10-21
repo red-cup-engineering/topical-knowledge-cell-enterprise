@@ -3,7 +3,7 @@
   "version": "0.1.4",
   "description": "Generic sovereign enterprise carrier for owner-admitted topical knowledge cells that hire independent storage, discovery, report, market, identity, and witness services.",
   "type": "module",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "files": [
     "scripts",
     "content",
@@ -43,5 +43,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/red-cup-engineering/topical-knowledge-cell-enterprise.git"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
